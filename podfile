@@ -1,0 +1,6 @@
+
+target 'InstFeedReader' do
+ pod 'SDWebImage', '~>3.8'
+pod 'DZNEmptyDataSet'
+
+end
